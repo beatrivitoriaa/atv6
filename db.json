@@ -2,32 +2,32 @@
     "messages": [
       {
         "id": "1",
-        "name": "Reginaldo Souza",
-        "message": "Onde voce está filho?",
+        "name": "Rafael Souza",
+        "message": "Onde voce está ?",
         "time": "Agora",
         "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
         "unread": 8
       },
       {
         "id": "2",
-        "name": "Renata Maria",
-        "message": "Bora marca de se ver?",
+        "name": "Maria",
+        "message": "Vamos marca de almoçar?",
         "time": "10m atrás",
         "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
         "unread": 1
       },
       {
         "id": "3",
-        "name": "Luiz Gustavo",
-        "message": "Vamos no Maracanã",
+        "name": "Felipe",
+        "message": "Vamos assistir o jogo na ilha?",
         "time": "36m atrás",
         "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
         "unread": 5
       },
       {
         "id": "4",
-        "name": "Jukanalha",
-        "message": "Pelada dos crias no domingo, bora ?",
+        "name": "Renato",
+        "message": "Pelada sexta, bora ?",
         "time": "55m atrás",
         "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
         "unread": 9
